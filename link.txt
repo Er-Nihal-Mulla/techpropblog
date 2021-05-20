@@ -1,0 +1,1 @@
+mongodb+srv://mern:<password>@clouddatabases.sq5fn.mongodb.net/<dbname>?retryWrites=true&w=majority
